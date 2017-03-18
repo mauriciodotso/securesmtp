@@ -95,3 +95,9 @@ ENV/
 # Rope project settings
 .ropeproject
 0
+
+#specific
+server_key.pub
+*.swp
+pip-selfcheck.json
+lib64
